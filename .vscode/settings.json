@@ -1,0 +1,5 @@
+{
+  "jest.autoRevealOutput": "off",
+  "jest.autoRun": "off",
+  "jest.enable": false,
+}
